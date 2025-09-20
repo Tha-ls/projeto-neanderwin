@@ -24,5 +24,6 @@ BIN: 10010110
 
 
 ## 👨‍💻 Autor
-Seu Nome - Arquitetura de Computadores
+Thales Vinicius - Arquitetura de Computadores
+
 
